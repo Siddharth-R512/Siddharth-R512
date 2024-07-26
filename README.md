@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siddharth.rajendranps@gmail.com**
 
-- 📄 Know about my experiences [I interned as a Business Intelligence Intern at Schneider Electric, where I used Tableau for data visualization, designed KPI-searchable dashboards, and tracked solution adoption. Additionally, I have worked on various deep learning projects, such as aerodynamic optimization using 3DCNN and genetic algorithms, and Martian terrain segmentation.](I interned as a Business Intelligence Intern at Schneider Electric, where I used Tableau for data visualization, designed KPI-searchable dashboards, and tracked solution adoption. Additionally, I have worked on various deep learning projects, such as aerodynamic optimization using 3DCNN and genetic algorithms, and Martian terrain segmentation.)
+- 📄 Know about my experiences -> **I interned as a Business Intelligence Intern at Schneider Electric, where I used Tableau for data visualisation, designed KPI-searchable dashboards, and tracked solution adoption. Additionally, I have worked on various deep learning projects, such as aerodynamic optimisation using 3DCNN and genetic algorithms, and Knowledge-Based QA using DistilBERT.**
 
 - ⚡ Fun fact **I love drawing art and anime, am madly in love with cars, enjoy playing football, and have a passion for mathematics.**
 
