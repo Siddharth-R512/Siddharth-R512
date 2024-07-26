@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Rajendran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth-r512" alt="siddharth-r512" /></a> </p>
 
