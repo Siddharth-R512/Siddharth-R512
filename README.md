@@ -1,24 +1,45 @@
 <h1 align="center">Hi 👋, I'm Siddharth Rajendran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth-r512" alt="siddharth-r512" /></a> </p>
 
-- 🔭 I’m currently working on **my Final Year Capstone Project - AEROFOAM, a simulation platform aimed that analyzing and improving the aerodynamics of cars using Deep learning techniques**
+## 🚀 Current Focus
+- Working on my Final Year Capstone Project: AEROFOAM
+  - A simulation platform for analyzing and improving car aerodynamics using Deep Learning
 
-- 🌱 I’m currently learning **Java Spring Boot and MVC architecture, along with advanced techniques in deep learning, including 3D convolutional neural networks and genetic algorithms.**
+## 🌱 Learning
+- Java Spring Boot and MVC architecture
+- Advanced deep learning techniques:
+  - 3D convolutional neural networks
+  - Genetic algorithms
 
-- 👯 I’m looking to collaborate on **Exciting projects related to Java and Python AIML, particularly those that merge innovative algorithms with practical applications.**
+## 👯 Collaboration Interests
+- Java and Python AIML projects
+- Innovative algorithms with practical applications
 
-- 🤝 I’m looking for help with **Using OpenFOAM and Ansys Fluent for preprocessing data and refining machine learning algorithms for better performance.**
+## 🤝 Seeking Assistance
+- OpenFOAM and Ansys Fluent for data preprocessing
+- Refining ML algorithms for enhanced performance
 
-- 👨‍💻 All of my projects are available at [https://github.com/Siddharth-R512](https://github.com/Siddharth-R512)
+## 🔗 Connect With Me
+- GitHub: [Siddharth-R512](https://github.com/Siddharth-R512)
+- Email: siddharth.rajendranps@gmail.com
 
-- 📫 How to reach me **siddharth.rajendranps@gmail.com**
+## 💼 Experience
+- Business Intelligence Intern at Schneider Electric
+  - Tableau data visualization
+  - KPI-searchable dashboard design
+  - Solution adoption tracking
+- Deep Learning Projects
+  - Aerodynamic optimization using 3DCNN and genetic algorithms
+  - Knowledge-Based QA using DistilBERT
 
-- 📄 Know about my experiences -> **I interned as a Business Intelligence Intern at Schneider Electric, where I used Tableau for data visualisation, designed KPI-searchable dashboards, and tracked solution adoption. Additionally, I have worked on various deep learning projects, such as aerodynamic optimisation using 3DCNN and genetic algorithms, and Knowledge-Based QA using DistilBERT.**
-
-- ⚡ Fun fact **I love drawing art and anime, am madly in love with cars, enjoy playing football, and have a passion for mathematics.**
+## ⚡ Fun Facts
+- Art and anime enthusiast
+- Car lover
+- Football player
+- Mathematics passion
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
